@@ -1,0 +1,1 @@
+https://www.geeksforgeeks.org/python/create-a-real-time-voice-translator-using-python/
